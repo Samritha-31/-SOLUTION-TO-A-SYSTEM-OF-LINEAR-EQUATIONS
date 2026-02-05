@@ -15,14 +15,17 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 
-<img width="917" height="487" alt="Screenshot 2026-02-05 180324" src="https://github.com/user-attachments/assets/5fc1f34e-acae-4721-9af9-ff8ec8f4115a" />
+
+<img width="877" height="439" alt="Screenshot 2026-02-05 175822" src="https://github.com/user-attachments/assets/d02ef648-66e6-4567-8a56-d84f5fadadf7" />
 
 
 
 
 ## Output:
 
-<img width="565" height="229" alt="Screenshot 2026-02-05 180334" src="https://github.com/user-attachments/assets/e291c9c5-8d78-401e-b93f-efd4a802db55" />
+<img width="567" height="200" alt="Screenshot 2026-02-05 175847" src="https://github.com/user-attachments/assets/35642c1f-cc01-41f5-b7e8-4e935887c1f5" />
+
+
 
 
 
